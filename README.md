@@ -9,6 +9,6 @@
 备注：项目的一些结构可能不是很成熟和合理，之后会在学习中优化好项目的结构
 
 #使用
- npm init
+ npm install
  npm run dev
  node app.js
